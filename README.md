@@ -1,2 +1,2 @@
-# Viagens.com
+# RNdestinos
 Site em HTML e CSS
